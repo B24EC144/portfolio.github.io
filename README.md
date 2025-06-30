@@ -1,4 +1,4 @@
-# 💼 My Developer Portfolio
+# 💼 My Portfolio
 
 Hi! I'm **Karimilla Neha**, a BTech ECE student passionate about the intersection of hardware and software. This is my personal portfolio website built using **HTML**, **CSS**, and a bit of creative energy 💡.
 
