@@ -7,5 +7,6 @@ Hi! I'm **Karimilla Neha**, a BTech ECE student passionate about the intersectio
 - 🛠️ Skills and technologies I’m learning
 - 📄 My resume & contact links
 - 🔍 Clean, responsive UI for desktop and mobile
+- 💼 reach me at : b24ec144@kitsw.ac.in
 
 ## 📁 Repository Structure
